@@ -7,3 +7,7 @@ i made a header.
 ``` python
 print(seems working...?)
 ```
+
+- [ ] Be happy
+- [ ] Die happy
+- [ ] Drink
